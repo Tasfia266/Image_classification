@@ -1,2 +1,3 @@
 # Image_classification
-These are some of my personal projects on image classification. 
+Image classification using pretrained network VGG-16. The fine tuning technique using VGG-16 is also included. 
+Keras-tuner for tuning the parameters of convolutional neural network.
